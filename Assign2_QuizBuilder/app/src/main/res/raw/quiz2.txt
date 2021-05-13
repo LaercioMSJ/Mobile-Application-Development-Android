@@ -1,0 +1,10 @@
+Up button;This is used to navigate within an app based on the hierarchical relationships between screens. For instance, if screen A displays a list of items, and selecting an item leads to screen B, then screen B should offer an Up button that returns to screen A.
+System back button;This is used to navigate, in reverse chronological order, through the history of screens the user has recently worked with. It is generally based on the temporal relationships between screens, rather than the app's hierarchy.
+Fixed tabs;These are always visible on the screen, and can't be moved out of the way. When in the main action bar, they can move to the top bar when the screen orientation changes.
+Spinners;This is a drop-down menu in the main action bar that allows users to switch between views of your app and are often used in place of dedicated tab bars in order to save real estate or when you expect your app's users to switch views infrequently.
+Action buttons;These controls are used on the action bar to "surface" (present for launch) your app's most important activities
+Swipe views;These allow the user to efficiently move from item to item using a simple gesture and thereby make browsing and consuming data a more fluent experience. Often used where horizontal navigation can flatten vertical hierarchies to make access to related data items faster.
+Contextual action bar;This is a temporary action bar that overlay your app's current action bar while data is selected. It appears after the user long presses on a selectable data item.
+Notification System;This allows your app to keep the user informed about important events, such as new messages in a chat app or a calendar event.
+Themes;These are Android's mechanism for applying a consistent style to an app or activity. The style specifies the visual properties of the elements that make up your user interface, such as color, height, padding and font size.
+Favorites;This tray stays at the bottom and always keeps your most important shortcuts and folders in view regardless of which panel is currently showing

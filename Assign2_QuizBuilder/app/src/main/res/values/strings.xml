@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz Builder</string>
+    <string name="tvLabelName">Please enter your name:</string>
+    <string name="etUserName">Enter your name here!</string>
+    <string name="btnStart">Start</string>
+    <string name="tvLblTotalQuestions">Total Questions:</string>
+    <string name="tvTotalQuestions">0/0</string>
+    <string name="tvLblCorrectAnswer">Correct Answer:</string>
+    <string name="tvCorrectAnswer">0</string>
+    <string name="btnRestart">Restart</string>
+    <string name="tvDefinition">There should be a Definition here! Something is wrong!</string>
+    <string name="radioTermOne">There should be Term 1 here! Something is wrong!</string>
+    <string name="radioTermTwo">There should be Term 2 here! Something is wrong!</string>
+    <string name="radioTermThree">There should be Term 3 here! Something is wrong!</string>
+    <string name="radioTermFour">There should be Term 4 here! Something is wrong!</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="tvCongratulations">Congratulations</string>
+    <string name="tvFinalMessage">There should be Final Message here! Something is wrong!</string>
+    <string name="btnPlayAgain">Play Again</string>
+    <string name="correctAnswer">%s\'s Points:</string>
+    <string name="congratulations">Congratulations %s!!!\nYou got it right %d out of %d</string>
+    <string name="finalMessageOne">Did you even try to answer one?</string>
+    <string name="finalMessageTwo">You need to study more!</string>
+    <string name="finalMessageThree">You really study this subject!</string>
+    <string name="finalMessageFour">Amazing! You know everything!</string>
+</resources>
